@@ -1,0 +1,29 @@
+,pg,pmt,sub_type,bank
+0,"                pg    isFailed  anomaly_score
+12       PAYTM_UPI  100.000000             -1
+15         PHONEPE   98.104265             -1
+10          PAYPAL   96.045198             -1
+13        PAYTM_V2   93.589744             -1
+0      AIRTELMONEY   75.000000             -1
+16        RAZORPAY   64.632810             -1
+11           PAYTM   61.192982             -1
+7              IPG   54.216867             -1
+5       GOCASHFREE   48.457048             -1
+4   FSS_ATM_PIN_V2   42.105263             -1
+6             HDFC   39.252336             -1","    pmt   isFailed  anomaly_score
+2    NB  72.737092             -1
+0  CARD  43.483515             -1","  sub_type   isFailed  anomaly_score
+3  UPI_PAY  98.148148             -1","                              bank   isFailed  anomaly_score
+206                        PHONEPE  98.122066             -1
+202                         PAYPAL  96.045198             -1
+130                         NB_BOB  95.275591             -1
+204                        PAYZAPP  94.736842             -1
+299                            UPI  94.300518             -1
+..                             ...        ...            ...
+34                    Bandhan Bank  15.217391             -1
+77                  GP Parsik Bank  14.285714             -1
+67               Dhanalakshmi Bank  14.285714             -1
+111             Lakshmi Vilas Bank   9.523810             -1
+98   JANATA SAHAKARI BANK LTD PUNE   9.090909             -1
+
+[123 rows x 3 columns]"
